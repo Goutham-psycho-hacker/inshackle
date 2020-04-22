@@ -1,6 +1,6 @@
 #!/bin/bash
 # Inshackle v1.0
-# coded by: @linux_choice
+# coded by: @Goutham
 # github.com/thelinuxchoice/inshackle
 # If you use any part from this code, give me the credits, please, read the License
 
