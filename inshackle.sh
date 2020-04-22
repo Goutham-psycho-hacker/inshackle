@@ -1,7 +1,7 @@
 #!/bin/bash
 # Inshackle v1.0
 # coded by: @Goutham
-# github.com/thelinuxchoice/inshackle
+# github.com/Goutham-psycho-hacker/inshackle
 # If you use any part from this code, give me the credits, please, read the License
 
 
